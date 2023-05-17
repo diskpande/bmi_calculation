@@ -1,0 +1,17 @@
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\bin\Debug\net7.0-windows\BMI CALCULATION.exe
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\bin\Debug\net7.0-windows\BMI CALCULATION.deps.json
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\bin\Debug\net7.0-windows\BMI CALCULATION.runtimeconfig.json
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\bin\Debug\net7.0-windows\BMI CALCULATION.dll
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\bin\Debug\net7.0-windows\BMI CALCULATION.pdb
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.csproj.AssemblyReference.cache
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI_CALCULATION.Form1.resources
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.csproj.GenerateResource.cache
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.AssemblyInfoInputs.cache
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.AssemblyInfo.cs
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.csproj.CoreCompileInputs.cache
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.dll
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\refint\BMI CALCULATION.dll
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.pdb
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\BMI CALCULATION.genruntimeconfig.cache
+C:\Users\izci_\OneDrive\Masaüstü\GAME\TinyProjects\Bmi Calculation\BMI CALCULATION\obj\Debug\net7.0-windows\ref\BMI CALCULATION.dll
